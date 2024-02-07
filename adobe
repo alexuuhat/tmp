@@ -1,0 +1,9 @@
+Adobe Premire Pro Pi...
+===================================================================
+1. cmd: sfc /scannow
+2. Visual C++ Redistributable for Visual Studio 2012 Update 4:
+  https://www.microsoft.com/en-us/download/details.aspx?id=30679
+
+3. MSVCP110.DLL:
+  https://www.dll-files.com/msvcp110.dll.html
+  paste: /windown/system32
